@@ -1,4 +1,4 @@
-# eos-update-notitier
+# eos-update-notifier
 
 File name | Description
 :--- | :---
